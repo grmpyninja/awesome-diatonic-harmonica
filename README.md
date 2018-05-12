@@ -6,9 +6,9 @@ A curated list of amazing Diatonic Harmonica [lessons](#lessons), [resources](#r
 
 
 ## Lessons
-- [YT - Adam Gussow Harmonica](https://www.youtube.com/playlist?list=PLB6838E17C1101700)
-- [YT - Tomlin Leckie](https://www.youtube.com/playlist?list=PLZbYT_90MeIwDQPf5zLlBWJ-51jk1I8KX)
-- [YT - Paul Lassey](https://www.youtube.com/user/ziharmo/playlists)
+- [Adam Gussow Harmonica](https://www.youtube.com/playlist?list=PLB6838E17C1101700)
+- [Tomlin Leckie](https://www.youtube.com/playlist?list=PLZbYT_90MeIwDQPf5zLlBWJ-51jk1I8KX)
+- [Paul Lassey](https://www.youtube.com/user/ziharmo/playlists)
 
 
 ## Resources
